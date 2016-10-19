@@ -77,3 +77,6 @@
 
 效果：
 ![效果.gif](http://upload-images.jianshu.io/upload_images/1923109-266ff6f192956cab.gif?imageMogr2/auto-orient/strip)
+
+【SJPullDownMenu】框架github下载地址：https://github.com/shaojianye/SJGestureUnlock.git
+【SJPullDownMenu】框架码云下载地址：https://git.oschina.net/miaomiaoshen/SJGestureUnlock.git
